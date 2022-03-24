@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305738520234",
+    "project_id": "charusat-food-app-1be83",
+    "storage_bucket": "charusat-food-app-1be83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305738520234:android:7e4cd1745fca6c36c922d3",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305738520234-2rka2h1b93bjq08tab9d0uhef494aghb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxciukcpr84U3LvlZbXGZ6jRZ5bcX0dcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305738520234-2rka2h1b93bjq08tab9d0uhef494aghb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
