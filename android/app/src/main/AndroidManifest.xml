@@ -1,9 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.food_app">
-   <application
-       android:name="io.flutter.app.FlutterApplication"
-       android:label="food_app"
-       >
+    <application
+        android:name="io.flutter.app.FlutterApplication"
+        android:label="food_app">
         <activity
             android:name=".MainActivity"
             android:exported="true"
